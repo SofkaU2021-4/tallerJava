@@ -1,0 +1,16 @@
+
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(Ì‡ƒ8ÃÕğ¨Ó/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(¤úŠ¼üÿÿÿÿ8ÄÕğ¨Ó/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(èê¿şÿÿÿÿ8ÄÕğ¨Ó/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(»ùÖıÿÿÿÿ8ÄÕğ¨Ó/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ŸÓÈ”8ÄÕğ¨Ó/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ÍÒâ¸ÿÿÿÿÿ8ÄÕğ¨Ó/
+q
+java:S1192"ODefine a constant instead of duplicating this literal "cienca ficcion" 3 times.(ûÁíÅıÿÿÿÿ8ÅÕğ¨Ó/
+j
+java:S1192"HDefine a constant instead of duplicating this literal "anonimo" 3 times.(ûÁíÅıÿÿÿÿ8ÅÕğ¨Ó/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ Æåşÿÿÿÿ8ÅÕğ¨Ó/
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÀø›8ÅÕğ¨Ó/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8Ã ğ¨Ó/
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8ÆÕğ¨Ó/

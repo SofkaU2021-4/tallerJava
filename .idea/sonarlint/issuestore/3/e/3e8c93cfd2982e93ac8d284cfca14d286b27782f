@@ -1,0 +1,17 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(áÑìÅþÿÿÿÿ
+C
+java:S1481".Remove this unused "sumatotal" local variable.(Õè—
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(å¾™Ë
+c
+java:S1612%"HReplace this lambda with method reference 'Televisor.class::isInstance'.(¦Ÿ—³ûÿÿÿÿ
+b
+java:S1612&"GReplace this lambda with method reference 'Lavadora.class::isInstance'.(ñ‚´˜þÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(—ä¤æ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ä—“ºûÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(«¨Ó
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÑìÅþÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+b
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘

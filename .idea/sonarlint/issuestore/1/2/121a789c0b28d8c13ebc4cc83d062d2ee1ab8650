@@ -1,0 +1,8 @@
+
+U
+java:S40343":Replace this negation and "anyMatch()" with "noneMatch()".(áéËæûÿÿÿÿ
+`
+java:S1117<"ERename "consumoEnergetico" which hides the field declared at line 10.(Õ£ı‚üÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(öØÈ¢
+b
+java:S1192"GDefine a constant instead of duplicating this literal "blanco" 4 times.( æÌîúÿÿÿÿ
